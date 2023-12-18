@@ -17,7 +17,7 @@
 </p>
 
 
-<br><br><br><br><br><br>
+<br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-khosla&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-khosla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayush-khosla" alt="aayush-khosla" /></a> </p>
